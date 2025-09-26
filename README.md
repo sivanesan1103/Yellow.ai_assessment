@@ -1,3 +1,12 @@
+
+
+
+
+https://github.com/user-attachments/assets/31d0472e-35a4-4aa9-97a6-0d3fefb940ef
+
+
+
+
 # 🤖 Yellow.ai
 **A Simple AI Chatbot Platform**
 
